@@ -66,5 +66,5 @@ If you encounter any issues or have suggestions, please open an issue on the Git
 **Enjoy the game! 🎮**
 
 ## Live Demo 🚀
-👉 [Visit My Project](gamecreater.netlify.app)
+👉 [Visit My Project](https://gamecreater.netlify.app/)
 
